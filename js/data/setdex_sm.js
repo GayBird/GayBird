@@ -2252,6 +2252,7 @@ var SETDEX_SM = {
 		"Battle Spot Singles Offensive": {"level":50,"evs":{"df":12,"hp":244,"sa":252},"nature":"Modest","ability":"Download","item":"Eviolite","moves":["Ice Beam","Shadow Ball","Recover","Tri Attack"]},
 		"Battle Spot Singles Trick Room": {"level":50,"evs":{"df":12,"hp":244,"sa":252},"ivs":{"sp":0},"nature":"Quiet","ability":"Download","item":"Eviolite","moves":["Trick Room","Shadow Ball","Ice Beam","Tri Attack"]},
 		"Battle Spot Doubles Bulky Support": {"level":50,"evs":{"sd":68,"df":96,"hp":252,"sa":92},"nature":"Relaxed","ability":"Trace","item":"Eviolite","moves":["Ice Beam","Recover","Trick Room","Tri Attack"]},
+		"VGC17 Specially Offensive Tank": {"level":50,"evs":{"hp":244,"df":180,"sa":8,"sd":76},"nature":"Relaxed","ability":"Download","item":"Eviolite","moves":["Ice Beam","Thunderbolt","Shadow Ball","Tri Attack"]},
 	},
 	"Primeape": {
 		"NU Choice Band": {"level":100,"evs":{"df":4,"at":252,"sp":252},"nature":"Jolly","ability":"Defiant","item":"Choice Band","moves":["Close Combat","U-turn","Stone Edge","Earthquake"]},
